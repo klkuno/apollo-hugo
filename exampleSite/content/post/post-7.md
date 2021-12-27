@@ -5,6 +5,7 @@ image: images/blog/blog-7.jpg
 image_webp: images/blog/blog-7.webp
 description: this is meta description
 categories:
+- Altra cate
 - Nuova
 - videography
 - photography
