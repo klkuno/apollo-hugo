@@ -5,7 +5,7 @@ image: images/blog/blog-4.jpg
 image_webp: images/blog/blog-4.webp
 description: this is meta description
 categories:
-- Telefoni
+- telefoni
 - population
 - nature
 
