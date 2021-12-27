@@ -6,4 +6,4 @@ image = "/images/blog/blog-7.jpg"
 title = "Test articolo"
 
 +++
-Ciao ciao
+Ciao ciao 
